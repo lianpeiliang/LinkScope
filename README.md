@@ -4,7 +4,7 @@
 
 软件功能演示：
 
-https://github.com/user-attachments/assets/ddcd3956-ef74-464b-9000-f8108aa1237f
+https://github.com/user-attachments/assets/fe20d042-1192-4b08-88ed-bacbad514c17
 
 基于 Qt 的通信调试助手，支持 TCP 客户端、TCP 服务端、UDP 客户端、UDP 服务端和串口收发。
 
